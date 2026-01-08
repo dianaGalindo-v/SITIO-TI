@@ -1,3 +1,15 @@
 h1{
-    color: #87b4f0
+    color: #9dbae0
+}
+body{
+    background-color: #9dbae0;
+}
+#encabezado {
+    background-color: blanchedalmond;
+    height: 150px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
 }
